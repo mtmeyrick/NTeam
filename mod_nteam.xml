@@ -2,7 +2,7 @@
 <extension type="module" version="2.5.0" client="site" method="upgrade">
     <name>NTeam</name>
     <author>Nitish Gundherva</author>
-    <version>1.1.0</version>
+    <version>1.0.7</version>
     <creationDate>July 2013</creationDate>
     <description>A module to display the team members.</description>
     <copyright>This module is released under the GNU/GPL License</copyright>
@@ -21,7 +21,8 @@
         <filename>tmpl/default.php</filename>
         <filename>tmpl/resize-class.php</filename>
         <filename>tmpl/index.html</filename>
-        <filename>css/mod_nteam.php</filename>
+        <filename>css/mod_nteam_1.php</filename>
+        <filename>css/mod_nteam_2.php</filename>
         <filename>css/index.html</filename>
         <filename>LICENSE.txt</filename>
     </files>
